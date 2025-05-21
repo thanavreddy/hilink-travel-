@@ -1,6 +1,6 @@
 # Travel App
 
-This is a [Next.js](https://nextjs.org) project that appears to be a travel application with a modern UI built using React and styled with Tailwind CSS.
+This is a [Next.js](https://nextjs.org) project that is a travel application with a modern UI built using React and styled with Tailwind CSS.
 
 ## Project Overview
 
